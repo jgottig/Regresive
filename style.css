@@ -3,7 +3,6 @@ body {
   color: white; /* Asegúrate de que el texto sea visible sobre el fondo negro */
 }
 
-
 * {
   box-sizing: border-box;
   margin: 0;
@@ -41,7 +40,7 @@ body {
   margin: 0 auto ;
 }
 .contenedor {
-  margin-top: 3%;
+  margin-top: 1%;
 }
 .contenido {
   width: 80%;
